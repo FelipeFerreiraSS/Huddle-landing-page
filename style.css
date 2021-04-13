@@ -23,7 +23,6 @@ body {
   background-repeat: no-repeat;
   background-size: 1127px;
   background-position-x: 5px;
-  background-position-y: -55px;
 }
 
 header {
@@ -38,8 +37,8 @@ header > img {
 }
 
 .main {
-  width: 1250px;
-  height: 500px;
+  width: 1393px;
+  height: 550px;
   margin: auto;
 
   display: flex;
