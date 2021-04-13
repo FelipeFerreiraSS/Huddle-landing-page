@@ -103,7 +103,27 @@ header > img {
 }
 .social {
   width: 160px;
-  margin-right: 120px;
+  margin-right: 150px;
   display: flex;
   justify-content: space-between;
+  margin-top: -65px;
+  color: white;
+}
+
+#face:hover {
+  color: var(--SoftMagenta);
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#twit:hover {
+  color: var(--SoftMagenta);
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#insta:hover {
+  color: var(--SoftMagenta);
+  cursor: pointer;
+  transition: 0.3s;
 }
